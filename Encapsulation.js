@@ -56,7 +56,7 @@ set setColorCode(value) {
 
 }
 
- 
+  
 }
 let co1=new Colors('red', 20,true)
 console.log(co1);

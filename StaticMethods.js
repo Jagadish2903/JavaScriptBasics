@@ -13,7 +13,7 @@ console.log("Hi there this is my address");
 //creating a static method inside the class 
 static greet(){
     console.log("Hello How are you?");
-}
+} 
 
 
 }

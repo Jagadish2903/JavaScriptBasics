@@ -42,7 +42,7 @@ console.log(car4);
 
 console.log('================================');
 
-
+ 
 //3.Using ...spread Operator
 
 const car5={...car1}

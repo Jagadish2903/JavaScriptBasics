@@ -18,7 +18,7 @@ function house(name) {
 //         noOfRooms: {
 //             Bedrooms: 1,
 //             Bathrooms: 2,
-//             Balcony: 1
+//              Balcony: 1
 //         },
 //     }
     

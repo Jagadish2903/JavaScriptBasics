@@ -19,7 +19,7 @@ let str ="Hi this is Jagadish";
  let result=[...str].reduce(function(a,b){
 a[b]=a[b]?a[b]+1:1;
 
-return a;
+return a; 
  },{}
  )
 

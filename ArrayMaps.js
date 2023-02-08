@@ -5,7 +5,7 @@ const members=[
     {id:3,firstName:'Lavanya',lastName:'terrorist'},
     {id:4,firstName:'Usha',lastName:'mostWanted'}
 ]
-
+ 
 
 let details=members.map(function(value){
 let fullName=value.firstName+" "+ value.lastName

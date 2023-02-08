@@ -7,4 +7,4 @@ let y=20;
 
 const addNumbers = (function(){
 console.log(x+y);
-})();
+})(); 

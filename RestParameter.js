@@ -4,7 +4,7 @@ function sum(...theArgs) {
       total += arg;
     }
     return total;
-  }
+  } 
   
   console.log(sum(1, 2, 3));
   // Expected output: 6

@@ -122,7 +122,7 @@ let u= s;
   s=t;
   t=u;
 
-console.log(s);
+console.log(s); 
 console.log(t);
 
 //introduce the new variable u

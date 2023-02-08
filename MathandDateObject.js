@@ -34,4 +34,4 @@ console.log(date.toDateString());
 console.log(date.toTimeString()); 
 
 //to get the date 
-console.log(date.getDate());
+console.log(date.getDate());  

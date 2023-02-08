@@ -8,5 +8,5 @@ taxAmount=cost*(tax/100);
 The Total tax ${tax}% for the Amount is ₹${taxAmount}
 The Total netPay Amount is ₹${cost-taxAmount}`)
 }
-
+ 
 calcualteTax(2000,)

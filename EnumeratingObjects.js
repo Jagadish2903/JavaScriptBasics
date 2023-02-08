@@ -31,7 +31,7 @@ for(keys of guests){
     console.log(keys);
 }
 
-
+ 
 //to get the Keys as well we need to pass Obect.entries 
 for(key of Object.entries(colors)){
     console.log(key);

@@ -6,7 +6,7 @@ const result=[23,10,20,22,24]
 let finalValue=result.reduce(function(previousValue, currentValue){
 return previousValue + currentValue;
 });
-
+ 
 console.log(finalValue);
 
 

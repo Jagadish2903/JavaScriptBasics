@@ -6,7 +6,7 @@ x=20;
 console.log(x);// It will print 20
 console.log(y); //it will still point to 10
 
-
+ 
 //reference Types
 //Objects 
 let p={

@@ -7,7 +7,7 @@ function housedetails(name) {
     this.location=function() {
         console.log('This is my address',name);
     }
-
+ 
 }
 
 const c2= new housedetails('jagan'); //to call the constructor function we need to use new keyword

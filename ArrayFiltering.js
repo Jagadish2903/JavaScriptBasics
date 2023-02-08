@@ -6,7 +6,7 @@ let evenNumbers=numbers.filter(function(value){
     return value % 2 === 0;
 })
 let oddNumbers=numbers.filter(function(value){
-    return value%2 !=0;
+    return value%2 !=0; 
 })
 
 console.log('Even Numberes are'+ evenNumbers)

@@ -17,7 +17,7 @@ this.noOfRooms = noOfRooms;
 //prototype property of address function
 Housedetails.prototype.address=function(){
     console.log('The address is '+' '+this.no+' '+this.name+' '+this.location)
-    }
+    } 
 
 
 

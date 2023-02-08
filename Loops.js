@@ -54,7 +54,7 @@ console.log(index,colors[index])
 
 console.log('=======================================================');
 
-
+ 
 //for of loop
 //mainly used for arrays
 //while using for of no need to use any notation like dot or bracket notation 

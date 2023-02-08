@@ -59,7 +59,7 @@ const laptops=[
        name:'hp',
        cost:1200
     }
-
+ 
 ]
 
 //to get the value of first function inarray using lambda function

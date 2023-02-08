@@ -6,7 +6,7 @@ const house = {
     location: 'Walaja',
     IsAvailable: 'true',
     sqFeet: {
-        height: 200,
+        height: 200, 
         width: 400
     },
    address : function () {

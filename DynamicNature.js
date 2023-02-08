@@ -15,7 +15,7 @@ circle.isActive=true;
 circle.draw=function(){}; //adding the function
 
 console.log(circle);
-
+ 
 console.log('=================================================================');
 //delete the properties of the object
 

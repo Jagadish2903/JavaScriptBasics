@@ -16,7 +16,7 @@ addNumbers();
 //need to end the statement at the end of function Expression.
 //two types 
     //Function Named Expression
-    //Anonymized Function Expression
+    //Anonymized Function Expression 
 
 //function Named Expression since function name a is on both sides 
 const a=function a(){
